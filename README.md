@@ -136,7 +136,7 @@ print(f"{red} ")
 
 if up == "2":
 
-        print ('code for Channel ≠>' + '%s%s (/.5.3.6.3.6.3.6.8.5.8.5.7.9.4.8.4.7.F.l.t.r.R.4.7.8.o.b.i.k.5.7.8.4.a.7.9.5.5.3)%s' % (fg('red'), bg('yellow'), attr('reset')))
+        print ('code for Channel ≠>' + '%s%s R=("""💜http://F/h.c.o.h.a.s.h)/5.7.8.0.3.5.8.9.4.2.0.7/f/i///////h.207.497.U/p_83¥//5)💜>http://5.106.6.29)~Filtering=Report"rubika"%56*!'5000')""')%s' % (fg('red'), bg('yellow'), attr('reset')))
 
 
 if up != "2":
@@ -154,7 +154,7 @@ if up != "3":
 
 if up == "4":
 
-        print ('code for account ≠>' + '%s%s (5.6.3.6.7.4.7.4.6.7.4.6.8.4.7.7.5.5.5.4.6.7.6.7.4.6.7.4.3.5.7.4.7.8.4.3.6)%s' % (fg('red'), bg('yellow'), attr('reset')))
+        print ('code for account ≠>' + '%s%s (5.6.3.6.7.4.7.4.6.7.4.6.8.4.7.7.5.5.5R=("""💜http://F/h.c.o.h.a.s.h)/5.7.8.0.3.5.8.9.4.2.0.7/f/i///////h.207.497.U/p_83¥//5)💜>http://5.106.6.29.~Filtering=Report"rubika"%56*!'5000'.4.6.7.6.7.4.6.7.4.3.5.7.4.7.8.4.3.6)%s' % (fg('red'), bg('yellow'), attr('reset')))
 
 
 
