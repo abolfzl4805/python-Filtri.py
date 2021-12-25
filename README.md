@@ -1,5 +1,3 @@
-# python-Filtri.py
-python Filtri.py
 # salam ❤️
 #almaytm                               
 
