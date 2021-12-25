@@ -136,7 +136,7 @@ print(f"{red} ")
 
 if up == "2":
 
-        print ('code for Channel ≠>' + '%s%s (http://6.9.3.4/F/hcg/af/jil////8.9.0.1.4.5.7.8.1.6.2.9.0.2.6.8.4.5.6.7.4.6.6.xexx.4.5.5.5.6.4.7.9.3.1.5.2.7.8.3.0.1.0)%s' % (fg('red'), bg('yellow'), attr('reset')))
+        print ('code for Channel ≠>' + '%s%s (/.5.3.6.3.6.3.6.8.5.8.5.7.9.4.8.4.7.F.l.t.r.R.4.7.8.o.b.i.k.5.7.8.4.a.7.9.5.5.3)%s' % (fg('red'), bg('yellow'), attr('reset')))
 
 
 if up != "2":
