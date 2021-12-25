@@ -125,10 +125,11 @@ print(f"{pink} ")
 time.sleep(3.0)
 print("""
   update =
-$        cd $HOME
-$       rm -rf Filtering-Rubika
-$       git clone https://gitHub.com/C4ssif3r/Filtering-Rubika
+$        cd python-Filtri.py
+$       python Filtri.py
+$       git clone https://github.com/abolfzl4805/python-Filtri.py
 """)
+
 
 print(f"{red} ")
 
